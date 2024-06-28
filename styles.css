@@ -26,6 +26,9 @@ body {
 script {
   display: none;
 }
+head {
+  display: none;
+}
 body * {
   display: flex;
   justify-content: center;
